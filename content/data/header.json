@@ -82,6 +82,17 @@
             "type": "Link"
         },
         {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "/maratona",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Maratona de Programação",
             "altText": "Maratona de Programação",
             "links": [],
