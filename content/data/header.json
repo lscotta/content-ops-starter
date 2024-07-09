@@ -75,7 +75,7 @@
         {
             "label": "Projetos e Pesquisas",
             "altText": "Projetos e Pesquisas",
-            "url": "/careers",
+            "url": "/proj_pesq",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
