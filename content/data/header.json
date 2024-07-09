@@ -21,15 +21,6 @@
             "type": "Link"
         },
         {
-            "label": "Ensino",
-            "altText": "Disciplinas",
-            "url": "/ensino",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "SubNav",
             "label": "Dropdown",
             "altText": "Dropdown",
