@@ -57,6 +57,16 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "altText": "Facebook",
+                    "url": "/cdr_eng",
+                    "showIcon": true,
+                    "icon": "facebook",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary"
