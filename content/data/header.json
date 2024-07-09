@@ -22,7 +22,7 @@
         },
         {
             "label": "Ensino",
-            "altText": "Blog",
+            "altText": "Disciplinas",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
