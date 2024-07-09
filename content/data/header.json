@@ -29,7 +29,7 @@
                     "type": "Link",
                     "label": "ATP - EMI",
                     "altText": "",
-                    "url": "/",
+                    "url": "/atp_emi",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
