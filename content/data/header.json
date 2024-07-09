@@ -51,7 +51,7 @@
                     "type": "Link",
                     "label": "CDR - EMI",
                     "altText": "Comunicação de Dados e Redes - EMI",
-                    "url": "/",
+                    "url": "/cdr_emi",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
