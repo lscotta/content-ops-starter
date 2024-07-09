@@ -66,7 +66,8 @@
                     "icon": "facebook",
                     "iconPosition": "left",
                     "style": "secondary",
-                    "elementId": ""
+                    "elementId": "",
+                    "label": "CDR - Engenharias"
                 }
             ],
             "labelStyle": "secondary"
