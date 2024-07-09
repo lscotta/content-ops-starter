@@ -23,7 +23,7 @@
         {
             "type": "SubNav",
             "label": "Disciplinas",
-            "altText": "Dropdown",
+            "altText": "Ensino",
             "links": [
                 {
                     "type": "Link",
