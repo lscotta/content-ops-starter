@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    position: relative;
+  }
+  
+  nav ul li ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  nav ul li:hover ul {
+    display: block;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    color: #333;
+  }
+  
+  nav ul li ul li {
+    display: block;
+  }
+  
